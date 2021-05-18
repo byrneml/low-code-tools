@@ -4,6 +4,8 @@ Curated list of tools that help you build with less (or no) code
 ## Contents
 * [Internal Tool Builders](#internal-tools)
 * [Next Gen Spreadsheets](#database-spreadsheets)
+* [Workflow Automation](#workflow-automation)
+* [Form Builders](#form-builders)
 
 <a name="internal-tools"/>
 
@@ -35,4 +37,26 @@ Curated list of tools that help you build with less (or no) code
 * [Rows](https://rows.com/)
 * [Google Tables](https://tables.area120.google.com/u/0/about#/)
 * [Coda](https://coda.io)
+
+<a name="workflow-automation"/>
+
+### Workflow Automation
+* [Zapier](https://zapier.com)
+* [Tray](https://tray.io)
+* [n8n](https://n8n.io)
+* [Paragon](https://useparagon.com)
+* [Automate](https://automate.io)
+* [WayScript](https://wayscript.com)
+* [Parabola](https://parabola.io)
+* [PhantomBuster](https://phantombuster.com)
+* [Captain Data](https://captaindata.co)
+
+<a name="form-builders"/>
+
+### Form Builders
+* [Feathery](https://feathery.tech)
+* [Typeform](https://typeform.com)
+* [Formium](https://formium.io)
+* [Arengu](https://arengu.com)
+* [Reform](https://reform.app)
 
