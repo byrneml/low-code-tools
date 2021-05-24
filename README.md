@@ -76,6 +76,6 @@ Curated list of tools that help you build with less (or no) code
 ### Ecommerce
 * [Shopify](https://shopify.com)
 * [CommerceJS](https://commercejs.com)
-* [BigCommerce](https://bigcommerce.com)
+* [BigCommerce](https://www.bigcommerce.com)
 * [Volusion](https://volusion.com)
 * [Alloy](https://runalloy.com/)
